@@ -5,4 +5,4 @@ How to predict your data
 4. Run "data_manipulation.ipynb" using a jupyter notebook.
 5. Wait until "data.csv" shows.
 6. Run "script_predict.ipynb" script using a jupyter notebook.
-7. Your data will be ready with predictions at the last column.
+7. Your data will be ready with predictions in "predicted_data.csv" file.
