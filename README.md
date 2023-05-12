@@ -9,7 +9,7 @@ This repository contains a simple machine learning project that predicts if a bo
 - 'prediction/': This directory contains the model, data processing script, and prediction script.
 
 ## Usage
-To predict future data with the same features or this data set, follow the steps:
+To predict future data with the same features of this data set, follow the steps:
 1. Download the prediction folder.
 2. Put your data in prediction folder or make sure your dataset is in the same directory as the files in the prediction folder.
 3. Rename your dataset filename to "raw_data.csv".
