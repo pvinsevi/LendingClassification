@@ -13,7 +13,7 @@ The goal of this project is to create a model that would predict a whether a bor
 
 ## Usage
 To predict future data with the same features of this data set, follow the steps:
-1. Download the prediction folder.
+1. Clone this repository: https://github.com/pvinsevi/LendingClassification.git
 2. Put your data in prediction folder or make sure your dataset is in the same directory as the files in the prediction folder.
 3. Rename your dataset filename to "raw_data.csv".
 4. Run "data_manipulation.ipynb" using a jupyter notebook.
