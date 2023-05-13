@@ -1,5 +1,8 @@
-# Simple Machine Learning Project Lending Classification 
-This repository contains a simple machine learning project that predicts if a borrower will pay the loan or be charged-off.
+# The Data
+LendingClub is a financial services company located in San Franscisco, California. It was the first peer-to-peer lender to register its offerings as securities with the Securities and Exchange Commission (SEC), and to offer loan trading on a secondary market.
+
+## The Goal
+The goal of this project is to create a model that would predict a whether a borrower will pay back their loan or be charged off using the historical data on loans. In this way, the model can predict future potential customers and assess whether they pay back their loan or not.
 
 ## Project Structure
 - 'lending_club_loan_two.csv': This file contains the train and testing data.
